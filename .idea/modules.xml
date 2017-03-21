@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/CordovaLib/CordovaLib.iml" filepath="$PROJECT_DIR$/platforms/android/CordovaLib/CordovaLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-image-picker/src/android/Library/Library.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-image-picker/src/android/Library/Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/android.iml" filepath="$PROJECT_DIR$/platforms/android/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/CordovaLib/build/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/platforms/android/CordovaLib/build/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/build/generated/source/buildConfig/buildConfig1.iml" filepath="$PROJECT_DIR$/platforms/android/build/generated/source/buildConfig/buildConfig1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/com-badrit-base64/src/com-badrit-base64.iml" filepath="$PROJECT_DIR$/plugins/com-badrit-base64/src/com-badrit-base64.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-compat/src/cordova-plugin-compat.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-compat/src/cordova-plugin-compat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/cordova-plugin-contacts.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/cordova-plugin-contacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-device/src/cordova-plugin-device.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/cordova-plugin-device.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/src/cordova-plugin-splashscreen.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/src/cordova-plugin-splashscreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-statusbar/src/cordova-plugin-statusbar.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/src/cordova-plugin-statusbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-whitelist/src/cordova-plugin-whitelist.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/src/cordova-plugin-whitelist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/ionic-plugin-keyboard/src/ionic-plugin-keyboard.iml" filepath="$PROJECT_DIR$/plugins/ionic-plugin-keyboard/src/ionic-plugin-keyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/cordova/node_modules/properties-parser/properties-parser.iml" filepath="$PROJECT_DIR$/platforms/android/cordova/node_modules/properties-parser/properties-parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/build/generated/source/r/r.iml" filepath="$PROJECT_DIR$/platforms/android/build/generated/source/r/r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-image-picker/src/android/com/synconset/synconset.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-image-picker/src/android/com/synconset/synconset.iml" />
+    </modules>
+  </component>
+</project>
